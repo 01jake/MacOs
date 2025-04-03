@@ -1,0 +1,4 @@
+C:\Users\jake3\OneDrive\Documentos\GymBlazor\GymBlazor\GymBlazor.Client\wwwroot\appsettings.json
+C:\Users\jake3\OneDrive\Documentos\GymBlazor\GymBlazor\GymBlazor.Client\wwwroot\appsettings.Development.json
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json

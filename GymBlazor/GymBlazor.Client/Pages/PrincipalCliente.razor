@@ -1,0 +1,72 @@
+﻿@page "/PrincipalCliente"
+@using Gym.Shared.Modelos;
+@using GymBlazor.Client.Servicios;
+@using Microsoft.AspNetCore.Components
+@inject NavigationManager NavigationManager
+@inject ClienteServicio ClienteServicio
+@using MudBlazor
+@attribute [StreamRendering(true)]
+@rendermode @(new InteractiveWebAssemblyRenderMode(false))
+
+@if (Clientes == null)
+{
+	<p><em>Loading...</em></p>
+
+}
+else
+{
+	<MudDataGrid Items="@Clientes">
+
+		<Columns>
+
+			<PropertyColumn Property="c => c.Id" Title="Id" />
+			<PropertyColumn Property="c => c.Nombre" Title="Nombre" />
+			<PropertyColumn Property="c => c.Apellido" Title="Apellido" />
+			<PropertyColumn Property="c => c.Email" Title="Email" />
+			<PropertyColumn Property="c => c.Telefono" Title="Telefono" />
+			<PropertyColumn Property="c => c.Estado" Title="Estado" />
+			<PropertyColumn Property="c => c.Fecha_Nacimiento" Title="Fecha De Nacimiento" />
+
+			<TemplateColumn Title="Acciones">
+				<CellTemplate>
+
+					<MudButton Color="Color.Warning" Size="Size.Small" Onclick="@(() => NavegarAEdicion(context.Item.Id))">Actualizar</MudButton>
+					<MudButton Color="Color.Error" Size="Size.Small" Onclick="@(() => EliminarPersonaje(context.Item.Id))">Borrar</MudButton>
+				</CellTemplate>
+
+			</TemplateColumn>
+		</Columns>
+	</MudDataGrid>
+	<MudButton Variant="Variant.Filled" DropShadow="false" OnClick="AbrirAgregarClietne">Agregar Nuevo Personaje</MudButton>
+}
+
+
+@code {
+	private List<Cliente> Clientes;
+	protected override async Task OnInitializedAsync()
+	{
+		Clientes = await ClienteServicio.ObtenerCliente();
+	}
+	
+
+ 
+
+	private async Task EliminarPersonaje(int id)
+	{
+		await ClienteServicio.EliminarCliente(id);
+		Clientes = await ClienteServicio.ObtenerCliente();
+
+	}
+    private void NavegarAEdicion(int id)
+    {
+        NavigationManager.NavigateTo($"/Cliente/{id}");
+    }
+
+
+	private void AbrirAgregarClietne()
+	{
+		NavigationManager.NavigateTo($"/AddCliente");
+	}
+
+	
+}

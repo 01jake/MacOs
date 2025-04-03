@@ -1,0 +1,85 @@
+﻿@using Gym.Shared.Modelos;
+@using FluentValidation
+@using GymBlazor.Client.Servicios
+@inject NavigationManager Navigation
+@inject ClienteServicio ClienteServicio
+
+@page "/AddCliente"
+@using MudBlazor
+
+<h3>Agregar Cliente</h3>
+
+
+<EditForm Model="nuevocliente" OnValidSubmit="AgregarCliente">
+        <DataAnnotationsValidator />
+        <MudGrid>
+            <MudItem xs="12" sm="7">
+                <MudCard>
+                    <MudCardContent>
+                        <MudTextField Label="First name" HelperText="Max. 8 characters"
+                                  @bind-Value="nuevocliente.Nombre" For="@(() => nuevocliente.Nombre)" />
+
+
+                        <MudTextField Label="Apellido" HelperText="Max. 8 characters"
+                                  @bind-Value="nuevocliente.Apellido" For="@(() => nuevocliente.Apellido)" />
+                                      <MudTextField Label="Telefono" HelperText="Max. 8 characters"
+                                  @bind-Value="nuevocliente.Telefono" For="@(() => nuevocliente.Telefono)" />
+                        <MudTextField Label="Email" Class="mt-3"
+                                  @bind-Value="nuevocliente.Email" For="@(() => nuevocliente.Email)" />
+                       
+                    </MudCardContent>
+                    <MudCardActions>
+                        <MudButton ButtonType="ButtonType.Submit" Variant="Variant.Filled" Color="Color.Primary" Class="ml-auto">Register</MudButton>
+                    </MudCardActions>
+                </MudCard>
+            </MudItem>
+            <MudItem xs="12" sm="5">
+                <MudPaper Class="pa-4 mud-height-full">
+                    <MudText Typo="Typo.subtitle2">Validation Summary</MudText>
+                    @if (success)
+                    {
+                        <MudText Color="Color.Success">Success</MudText>
+                    }
+                    else
+                    {
+                        <MudText Color="@Color.Error">
+                            <ValidationSummary />
+                        </MudText>
+                    }
+                </MudPaper>
+            </MudItem>
+            <MudItem xs="12">
+                <MudText Typo="Typo.body2" Align="Align.Center">
+                    Fill out the form correctly to see the success message.
+                </MudText>
+            </MudItem>
+        </MudGrid>
+    </EditForm>
+
+
+@code {
+    private Cliente nuevocliente = new();
+    bool success;
+
+    private async Task AgregarCliente()
+    {
+        try
+        {
+            await ClienteServicio.AgregarCliente(nuevocliente);
+
+            Navigation.NavigateTo("/PrincipalCliente");
+        }
+        catch (Exception ex)
+        {
+
+            Console.WriteLine($"Error al agregar personaje: {ex.Message}");
+        }
+    }
+
+    private void OnValidSubmit(EditContext context)
+    {
+        success = true;
+        StateHasChanged();
+    }
+
+}
