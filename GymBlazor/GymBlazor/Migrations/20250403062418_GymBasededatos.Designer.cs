@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace GymBlazor.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250402200338_Gymbase")]
-    partial class Gymbase
+    [Migration("20250403062418_GymBasededatos")]
+    partial class GymBasededatos
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

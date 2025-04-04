@@ -31,6 +31,10 @@ namespace GymBlazor.Client.Servicios
         {
             await _httpClient.PutAsJsonAsync($"api/Clientes/{cliente.Id}", cliente);
         }
+        public async Task ContraseñaCliente(Cliente cliente)
+        {
+            await _httpClient.PutAsJsonAsync($"api/Clientes/{cliente.Id}", cliente);
+        }
         public async Task EliminarCliente (int id)
         {
             await _httpClient.DeleteAsync($"api/Clientes/{id}");

@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Gym.Shared.Modelos;
 using GymBlazor.Data;
+using System.Text;
 
 namespace GymBlazor.Controller
 {
@@ -40,6 +41,21 @@ namespace GymBlazor.Controller
             }
 
             return cliente;
+        }
+        [HttpGet("{id}/password")]
+        public async Task<ActionResult<Cliente>> GetClienteContraseña(int id)
+        {
+            var cliente = await _context.Clientes.FindAsync(id);
+            if (cliente == null)
+            {
+                return NotFound();
+            }
+            cliente.Contraseña = int.Parse(GetRandomPassword(10));
+            _context.Entry(cliente).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+            return cliente;
+
+
         }
 
         // PUT: api/Clientes/5
@@ -103,6 +119,30 @@ namespace GymBlazor.Controller
         private bool ClienteExists(int id)
         {
             return _context.Clientes.Any(e => e.Id == id);
+        }
+
+        public static string GetRandomPassword(int length)
+        {
+            const string chars = "0123456789";
+
+            StringBuilder sb = new StringBuilder();
+            Random rnd = new Random();
+
+            for (int i = 0; i < length; i++)
+            {
+                int index = rnd.Next(chars.Length);
+                sb.Append(chars[index]);
+            }
+
+            return sb.ToString();
+        }
+
+        public static void Main()
+        {
+            int length = 10;
+
+            string password = GetRandomPassword(length);
+            Console.WriteLine(password);
         }
     }
 }

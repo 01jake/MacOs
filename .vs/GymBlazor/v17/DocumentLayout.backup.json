@@ -1,88 +1,95 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\",
+  "WorkspaceRootPath": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor.client\\pages\\addcliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\pages\\addcliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor.client\\servicios\\clienteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\servicios\\clienteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\pages\\mostrarcliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\pages\\mostrarcliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor.client\\pages\\principalcliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\pages\\principalcliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\pages\\principalcliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor\\controller\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|solutionrelative:gymblazor\\gymblazor\\controller\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|solutionrelative:gymblazor\\gymblazor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Migrations\\20250402200338_Gymbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GymBlazor\\GymBlazor\\Migrations\\20250402200338_Gymbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|solutionrelative:gymblazor\\gymblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|solutionrelative:gymblazor\\gymblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|solutionrelative:gymblazor\\gymblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Migrations\\20250403062418_GymBasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GymBlazor\\GymBlazor\\Migrations\\20250403062418_GymBasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor\\controller\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|solutionrelative:gymblazor\\gymblazor\\controller\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jake3\\OneDrive\\Documentos\\RickandMorty1\\RickandMorty1\\RickandMorty1\\Controller\\PersonajesController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\pages\\addcliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\pages\\addcliente.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\servicios\\clienteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\servicios\\clienteservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|solutionrelative:gymblazor\\gymblazor\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor.client\\pages\\update.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\pages\\update.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\pages\\update.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9022FE19-4015-41A2-B1DB-CE047984238D}|Gym.Shared\\Gym.Shared.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gym.shared\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9022FE19-4015-41A2-B1DB-CE047984238D}|Gym.Shared\\Gym.Shared.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gym.shared\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9022FE19-4015-41A2-B1DB-CE047984238D}|Gym.Shared\\Gym.Shared.csproj|solutionrelative:gym.shared\\modelos\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|solutionrelative:gymblazor\\gymblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|solutionrelative:gymblazor\\gymblazor\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9022FE19-4015-41A2-B1DB-CE047984238D}|Gym.Shared\\Gym.Shared.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gym.shared\\gym.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{9022FE19-4015-41A2-B1DB-CE047984238D}|Gym.Shared\\Gym.Shared.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gym.shared\\gym.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9022FE19-4015-41A2-B1DB-CE047984238D}|Gym.Shared\\Gym.Shared.csproj|solutionrelative:gym.shared\\gym.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jake3\\AppData\\Local\\Temp\\.vsdbgsrc\\1f0b1000af2c5edd16997710ecdeaf037d19036e9d89fb0793cd63e5ca39e47c\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor\\gymblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor\\gymblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D97F0BE4-E83E-47A8-A82E-5FDDB96F8388}|GymBlazor\\GymBlazor\\GymBlazor.csproj|solutionrelative:gymblazor\\gymblazor\\gymblazor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\jake3\\onedrive\\documentos\\gymblazor\\gymblazor\\gymblazor.client\\gymblazor.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|c:\\users\\ang31\\onedrive\\desktop\\macos\\gymblazor\\gymblazor.client\\gymblazor.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{07E75C16-5710-47EF-8DAF-CBE7478EC542}|GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj|solutionrelative:gymblazor\\gymblazor.client\\gymblazor.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -113,167 +120,185 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\Gym.Shared\\Modelos\\Cliente.cs",
-              "RelativeDocumentMoniker": "Gym.Shared\\Modelos\\Cliente.cs",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\Gym.Shared\\Modelos\\Cliente.cs",
-              "RelativeToolTip": "Gym.Shared\\Modelos\\Cliente.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T05:16:54.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClienteServicio.cs",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Servicios\\ClienteServicio.cs",
-              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Servicios\\ClienteServicio.cs",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Servicios\\ClienteServicio.cs",
-              "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Servicios\\ClienteServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T05:36:25.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Update.razor",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Pages\\Update.razor",
-              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Pages\\Update.razor",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Pages\\Update.razor",
-              "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Pages\\Update.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MostrarCliente.razor",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Pages\\MostrarCliente.razor",
+              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Pages\\MostrarCliente.razor",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Pages\\MostrarCliente.razor",
+              "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Pages\\MostrarCliente.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T19:45:02.238Z",
+              "WhenOpened": "2025-04-03T06:31:13.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "GymBlazor\\GymBlazor\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Title": "20250403062418_GymBasededatos.cs",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Migrations\\20250403062418_GymBasededatos.cs",
+              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\Migrations\\20250403062418_GymBasededatos.cs",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Migrations\\20250403062418_GymBasededatos.cs",
+              "RelativeToolTip": "GymBlazor\\GymBlazor\\Migrations\\20250403062418_GymBasededatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T04:55:46.526Z",
+              "WhenOpened": "2025-04-03T06:24:18.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "PersonajesController.cs",
+              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\RickandMorty1\\RickandMorty1\\RickandMorty1\\Controller\\PersonajesController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\jake3\\OneDrive\\Documentos\\RickandMorty1\\RickandMorty1\\RickandMorty1\\Controller\\PersonajesController.cs",
+              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\RickandMorty1\\RickandMorty1\\RickandMorty1\\Controller\\PersonajesController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\jake3\\OneDrive\\Documentos\\RickandMorty1\\RickandMorty1\\RickandMorty1\\Controller\\PersonajesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T05:18:47.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Update.razor",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Pages\\Update.razor",
+              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Pages\\Update.razor",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Pages\\Update.razor",
+              "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Pages\\Update.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T19:45:02.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "GymBlazor\\GymBlazor\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T04:55:46.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Layout\\NavMenu.razor*",
-              "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Layout\\NavMenu.razor*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-02T04:49:16.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "AddCliente.razor",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Pages\\AddCliente.razor",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Pages\\AddCliente.razor",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Pages\\AddCliente.razor",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Pages\\AddCliente.razor",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Pages\\AddCliente.razor",
               "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Pages\\AddCliente.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T16:46:46.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T16:46:46.623Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20250402200338_Gymbase.cs",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Migrations\\20250402200338_Gymbase.cs",
-              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\Migrations\\20250402200338_Gymbase.cs",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Migrations\\20250402200338_Gymbase.cs",
-              "RelativeToolTip": "GymBlazor\\GymBlazor\\Migrations\\20250402200338_Gymbase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T20:03:39.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PrincipalCliente.razor",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Pages\\PrincipalCliente.razor",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Pages\\PrincipalCliente.razor",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Pages\\PrincipalCliente.razor",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Pages\\PrincipalCliente.razor",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Pages\\PrincipalCliente.razor",
               "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Pages\\PrincipalCliente.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-04-02T05:57:13.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "ClienteServicio.cs",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Servicios\\ClienteServicio.cs",
+              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Servicios\\ClienteServicio.cs",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Servicios\\ClienteServicio.cs",
+              "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Servicios\\ClienteServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:36:25.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\Gym.Shared\\Modelos\\Cliente.cs",
+              "RelativeDocumentMoniker": "Gym.Shared\\Modelos\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\Gym.Shared\\Modelos\\Cliente.cs",
+              "RelativeToolTip": "Gym.Shared\\Modelos\\Cliente.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T05:16:54.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Controller\\ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Controller\\ClientesController.cs",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\Controller\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Controller\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Controller\\ClientesController.cs",
               "RelativeToolTip": "GymBlazor\\GymBlazor\\Controller\\ClientesController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwCoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T20:05:23.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\appsettings.json",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\appsettings.json",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\appsettings.json",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\appsettings.json",
               "RelativeToolTip": "GymBlazor\\GymBlazor\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-02T04:55:11.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Layout\\MainLayout.razor",
               "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T04:48:28.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T04:48:28.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Program.cs",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Program.cs",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Program.cs",
               "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T04:48:12.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T04:48:12.212Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Program.cs",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\Program.cs",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Program.cs",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Program.cs",
               "RelativeToolTip": "GymBlazor\\GymBlazor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -282,77 +307,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Pages\\Counter.razor",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\Pages\\Counter.razor",
               "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\Pages\\Counter.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T19:49:37.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\_Imports.razor",
-              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\_Imports.razor",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\_Imports.razor",
-              "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T16:34:20.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T19:49:37.503Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Components\\_Imports.razor",
-              "RelativeToolTip": "GymBlazor\\GymBlazor\\Components\\_Imports.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\_Imports.razor",
+              "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T04:47:15.963Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Components\\App.razor",
-              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\Components\\App.razor",
-              "RelativeToolTip": "GymBlazor\\GymBlazor\\Components\\App.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-02T04:47:26.857Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Gym.Shared",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\Gym.Shared\\Gym.Shared.csproj",
-              "RelativeDocumentMoniker": "Gym.Shared\\Gym.Shared.csproj",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\Gym.Shared\\Gym.Shared.csproj",
-              "RelativeToolTip": "Gym.Shared\\Gym.Shared.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-02T16:28:25.364Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T16:34:20.628Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Program.cs",
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Components\\_Imports.razor",
+              "RelativeToolTip": "GymBlazor\\GymBlazor\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T04:47:15.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\Components\\App.razor",
+              "RelativeToolTip": "GymBlazor\\GymBlazor\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T04:47:26.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Gym.Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\Gym.Shared\\Gym.Shared.csproj",
+              "RelativeDocumentMoniker": "Gym.Shared\\Gym.Shared.csproj",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\Gym.Shared\\Gym.Shared.csproj",
+              "RelativeToolTip": "Gym.Shared\\Gym.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T16:28:25.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs [Read Only]",
               "DocumentMoniker": "C:\\Users\\jake3\\AppData\\Local\\Temp\\.vsdbgsrc\\1f0b1000af2c5edd16997710ecdeaf037d19036e9d89fb0793cd63e5ca39e47c\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1f0b1000af2c5edd16997710ecdeaf037d19036e9d89fb0793cd63e5ca39e47c\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\jake3\\AppData\\Local\\Temp\\.vsdbgsrc\\1f0b1000af2c5edd16997710ecdeaf037d19036e9d89fb0793cd63e5ca39e47c\\Program.cs",
               "ToolTip": "C:\\Users\\jake3\\AppData\\Local\\Temp\\.vsdbgsrc\\1f0b1000af2c5edd16997710ecdeaf037d19036e9d89fb0793cd63e5ca39e47c\\Program.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\1f0b1000af2c5edd16997710ecdeaf037d19036e9d89fb0793cd63e5ca39e47c\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\jake3\\AppData\\Local\\Temp\\.vsdbgsrc\\1f0b1000af2c5edd16997710ecdeaf037d19036e9d89fb0793cd63e5ca39e47c\\Program.cs [Read Only]",
               "ViewState": "AgIAAAUAAAAAAAAAAAAawBEAAAACAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T16:26:22.045Z",
@@ -360,29 +380,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "GymBlazor.csproj",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\GymBlazor.csproj",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\GymBlazor.csproj",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor\\GymBlazor.csproj",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor\\GymBlazor.csproj",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor\\GymBlazor.csproj",
               "RelativeToolTip": "GymBlazor\\GymBlazor\\GymBlazor.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-02T04:55:25.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T04:55:25.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "GymBlazor.Client.csproj",
-              "DocumentMoniker": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj",
+              "DocumentMoniker": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj",
               "RelativeDocumentMoniker": "GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj",
-              "ToolTip": "C:\\Users\\jake3\\OneDrive\\Documentos\\GymBlazor\\GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj",
+              "ToolTip": "C:\\Users\\ang31\\OneDrive\\Desktop\\MacOs\\GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj",
               "RelativeToolTip": "GymBlazor\\GymBlazor.Client\\GymBlazor.Client.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-02T04:32:45.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T04:32:45.638Z"
             }
           ]
         }

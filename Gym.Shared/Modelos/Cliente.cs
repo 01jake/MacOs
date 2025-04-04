@@ -26,8 +26,9 @@ namespace Gym.Shared.Modelos
        
         public bool Estado { get; set; }
         public DateTime Fecha_Nacimiento { get; set; }
-   
-     
+        public int Contraseña { get; set; }
+
+
 
 
     }

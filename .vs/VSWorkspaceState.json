@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GymBlazor",
+    "\\GymBlazor\\GymBlazor.Client",
+    "\\GymBlazor\\GymBlazor.Client\\Pages"
   ],
-  "SelectedNode": "\\GymBlazor.sln",
+  "SelectedNode": "\\GymBlazor\\GymBlazor.Client\\Pages\\PrincipalCliente.razor",
   "PreviewInSolutionExplorer": false
 }

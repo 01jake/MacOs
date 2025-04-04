@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace GymBlazor.Migrations
 {
     /// <inheritdoc />
-    public partial class Gymbase : Migration
+    public partial class GymBasededatos : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

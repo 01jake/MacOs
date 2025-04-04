@@ -22,3 +22,16 @@ C:\Users\jake3\OneDrive\Documentos\GymBlazor\Gym.Shared\obj\Debug\net9.0\Gym.Sha
 C:\Users\jake3\OneDrive\Documentos\GymBlazor\Gym.Shared\obj\Debug\net9.0\refint\Gym.Shared.dll
 C:\Users\jake3\OneDrive\Documentos\GymBlazor\Gym.Shared\obj\Debug\net9.0\Gym.Shared.pdb
 C:\Users\jake3\OneDrive\Documentos\GymBlazor\Gym.Shared\obj\Debug\net9.0\ref\Gym.Shared.dll
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\bin\Debug\net9.0\Gym.Shared.deps.json
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\bin\Debug\net9.0\Gym.Shared.dll
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\bin\Debug\net9.0\Gym.Shared.pdb
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\obj\Debug\net9.0\Gym.Shared.csproj.AssemblyReference.cache
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\obj\Debug\net9.0\Gym.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\obj\Debug\net9.0\Gym.Shared.AssemblyInfoInputs.cache
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\obj\Debug\net9.0\Gym.Shared.AssemblyInfo.cs
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\obj\Debug\net9.0\Gym.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\obj\Debug\net9.0\Gym.Shared.sourcelink.json
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\obj\Debug\net9.0\Gym.Shared.dll
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\obj\Debug\net9.0\refint\Gym.Shared.dll
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\obj\Debug\net9.0\Gym.Shared.pdb
+C:\Users\ang31\OneDrive\Desktop\MacOs\Gym.Shared\obj\Debug\net9.0\ref\Gym.Shared.dll
